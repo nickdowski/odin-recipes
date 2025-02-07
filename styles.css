@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 42px;
+    text-align: center;
+    font-family:'Helvetica', sans-serif;
+}
+
+ul {
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+}
+
+li {
+    background-color: #e3f2fd;
+    font-family: 'Roboto','Homemade Apple', sans-serif;
+}
