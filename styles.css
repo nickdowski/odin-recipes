@@ -13,7 +13,8 @@ ul {
     padding: 0;
 }
 
-li {
+.recipes {
     background-color: #e3f2fd;
     font-family: 'Roboto','Homemade Apple', sans-serif;
+    text-align: center;
 }
