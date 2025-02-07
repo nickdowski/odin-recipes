@@ -18,3 +18,14 @@ ul {
     font-family: 'Roboto','Homemade Apple', sans-serif;
     text-align: center;
 }
+
+img {
+    width: 100%;
+    height: auto;
+    align-content: center;
+}
+
+.yummy {
+    text-align: center;
+    font-size: 20px;
+}
